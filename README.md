@@ -75,8 +75,8 @@ const montu: Developer = {
       <sub>Immersive Three.js Portfolio Experience</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Hxni-Ecommerce-Store" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/screenshot_home.png" width="100%" />
+      <a href="https://github.com/montuyadav18/My-Ecommerce-Store" target="_blank">
+        <img src="https://github.com/montuyadav18/My-Ecommerce-Store/main/screenshot_home.png" width="100%" />
       </a>
       <br/>
       <b>Editorial Excellence</b><br/>
