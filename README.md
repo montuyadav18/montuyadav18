@@ -76,7 +76,7 @@ const montu: Developer = {
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/montuyadav18/My-Ecommerce-Store" target="_blank">
-        <img src="https://github.com/montuyadav18/My-Ecommerce-Store/main/screenshot_home.png" width="100%" />
+        <img src="https://github.com/montuyadav18/My-Ecommerce-Store/blob/main/screenshot_home.png" width="100%" />
       </a>
       <br/>
       <b>Editorial Excellence</b><br/>
