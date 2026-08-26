@@ -67,8 +67,8 @@ const montu: Developer = {
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://hxnix-gold.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png" width="100%" />
+      <a href="https://montu-yadav-dev.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/3d-cinematic-portfolio/refs/heads/main/public/images/preview.png" width="100%" />
       </a>
       <br/>
       <b>The 3D Nexus</b><br/>
