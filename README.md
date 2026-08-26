@@ -13,7 +13,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
 &nbsp;
-<img src="https://img.shields.io/badge/BASED-India%20🇮🇳-ffffff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/BASED-India-ffffff?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
