@@ -34,7 +34,7 @@
 
 ### 🧑‍💻 &nbsp; The Mind Behind the Code
 ```typescript
-const hassan: Developer = {
+const montu: Developer = {
   name        : "Montu Rudal Yadav",
   title       : "Full Stack Developer",
   location    : "🌍 India — building for the world",
