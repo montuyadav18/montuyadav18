@@ -85,8 +85,8 @@ const montu: Developer = {
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/E-store2" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/E-store2/main/docs/ui-preview.png" width="100%" />
+      <a href="https://github.com/montuyadav18/Mry-Ecommerce-Store2" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/Mry-Ecommerce-Store2/refs/heads/main/docs/ui-preview.png" width="100%" />
       </a>
       <br/>
       <b>Bespoke E-store 2.0</b><br/>
