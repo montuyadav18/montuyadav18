@@ -107,7 +107,7 @@ const montu: Developer = {
         <img src="https://raw.githubusercontent.com/montuyadav18/Social-Media-App/refs/heads/main/docs/assets/mobile_mockup.png" width="100%" />
       </a>
       <br/>
-      <b>NIXH Social</b><br/>
+      <b>MRY Social</b><br/>
       <sub>Enterprise Multi-User Directory & Social Engine</sub>
     </td>
     <td align="center" width="50%">
