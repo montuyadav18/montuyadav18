@@ -111,8 +111,8 @@ const montu: Developer = {
       <sub>Enterprise Multi-User Directory & Social Engine</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_express_mockup.png" width="100%" />
+      <a href="https://github.com/montuyadav18/A-food-Delivery-App-mry-express" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/My-Ecommerce-Store/refs/heads/main/profile_docs/assets/mry_express_mockup.png" width="100%" />
       </a>
       <br/>
       <b>hxni Express</b><br/>
