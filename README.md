@@ -103,8 +103,8 @@ const montu: Developer = {
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Nixh-A-social-Media-App/main/docs/assets/mobile_mockup.png" width="100%" />
+      <a href="https://github.com/montuyadav18/Social-Media-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/Social-Media-App/refs/heads/main/docs/assets/mobile_mockup.png" width="100%" />
       </a>
       <br/>
       <b>NIXH Social</b><br/>
