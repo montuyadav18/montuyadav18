@@ -93,8 +93,8 @@ const montu: Developer = {
       <sub>Luxury Minimalist Mobile Commerce</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Ticket-Booking-App/main/mobile/assets/promo1.png" width="100%" />
+      <a href="https://github.com/montuyadav18/Ticket-Booking-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/Ticket-Booking-App/refs/heads/main/mobile/assets/promo1.png" width="100%" />
       </a>
       <br/>
       <b>TicketVerse</b><br/>
