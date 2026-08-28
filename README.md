@@ -121,11 +121,11 @@ const montu: Developer = {
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/-A-Restaurant-App-Spice-with-Hassan" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/spice_hassan_mockup.png" width="100%" />
+      <a href="https://github.com/montuyadav18/A-Restaurant-App-Spice" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/My-Ecommerce-Store/refs/heads/main/profile_docs/assets/spice_montu_mockup.png" width="100%" />
       </a>
       <br/>
-      <b>Spice with Hassan</b><br/>
+      <b>Spice with Montu</b><br/>
       <sub>Boutique Restaurant & Ordering Management</sub>
     </td>
     <td align="center" width="50%">
