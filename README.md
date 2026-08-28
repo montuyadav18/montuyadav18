@@ -129,11 +129,11 @@ const montu: Developer = {
       <sub>Boutique Restaurant & Ordering Management</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Food-Delivery-app-2" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Food-Delivery-app-2/main/hero.png" width="100%" />
+      <a href="https://github.com/montuyadav18/Food-Delivery-app-2" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/Food-Delivery-app-2/refs/heads/main/hero.png" width="100%" />
       </a>
       <br/>
-      <b>Nixh Food 2.0</b><br/>
+      <b>MRY Food 2.0</b><br/>
       <sub>Scalable Order Tracking & Delivery ecosystem</sub>
     </td>
   </tr>
