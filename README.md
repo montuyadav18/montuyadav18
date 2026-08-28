@@ -139,11 +139,11 @@ const montu: Developer = {
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Expense-Tracker" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_finance_mockup.png" width="100%" />
+      <a href="https://github.com/montuyadav18/Expense-Tracker" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/My-Ecommerce-Store/refs/heads/main/profile_docs/assets/mry_finance_mockup.png" width="100%" />
       </a>
       <br/>
-      <b>Hxni Finance</b><br/>
+      <b>MRY Finance</b><br/>
       <sub>Advanced Personal Asset & Expense Management</sub>
     </td>
     <td align="center" width="50%">
