@@ -151,7 +151,7 @@ const montu: Developer = {
         <img src="https://raw.githubusercontent.com/montuyadav18/My-Ecommerce-Store/refs/heads/main/profile_docs/assets/mry_social_mockup.png" width="100%" />
       </a>
       <br/>
-      <b>Hxnix Social</b><br/>
+      <b>MRY Social</b><br/>
       <sub>Modern Interactive Community Engine</sub>
     </td>
   </tr>
