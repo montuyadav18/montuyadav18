@@ -358,15 +358,15 @@ const montu: Developer = {
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="mailto:msgoat550@gmail.com">
+<a href="mailto:montuyadav1801@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://github.com/Hxni786" target="_blank">
+<a href="https://github.com/montuyadav18" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://mypf786.netlify.app/" target="_blank">
+<a href="https://montu-yadav-dev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 
