@@ -147,8 +147,8 @@ const montu: Developer = {
       <sub>Advanced Personal Asset & Expense Management</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Hxnix-Social-Media-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxnix_social_mockup.png" width="100%" />
+      <a href="https://github.com/montuyadav18/Mry-Social-Media-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/montuyadav18/My-Ecommerce-Store/refs/heads/main/profile_docs/assets/mry_social_mockup.png" width="100%" />
       </a>
       <br/>
       <b>Hxnix Social</b><br/>
